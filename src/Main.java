@@ -13,6 +13,9 @@ public class Main {
         Platform.runLater(Main::control);
     }
 
+    //OBJECTIVE: To calculate the diffraction of a wave between two slits. Allow for the slits to change size so that the diffraction can change
+    //THIS PROJECT WILL BE PUT ON HOLD UNTIL I KNOW MORE ABOUT THE MATHS BEHIND LIGHT
+
     private static void control() {
         int controlWidth = 400;
         int controlHeight = 200;
